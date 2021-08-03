@@ -24,6 +24,8 @@ Start the plugin and create the menu item: `spoon.CPUTempMenuDisplay:start()`
 `spoon.CPUTempMenuDisplay:start()` takes an optional parameter, a number of seconds it should refresh at. Be default, it is 20.
 You can click the menubar item to pause/play the track.
 
+Click the menu bar item to switch between Celsius (default) and Fahrenheit.
+
 ## Acknowledgements
 - [Zoom.spoon](https://github.com/jpf/Zoom.spoon) - inspiration, installation instructions (mostly copied verbatim)
 - [Hammerspoon Contributors](https://github.com/Hammerspoon/hammerspoon/blob/master/CREDITS.md) - thanks for Hammerspoon!
